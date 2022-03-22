@@ -1,0 +1,2 @@
+There is no meaning in life
+Print ("Dog:Bork")
